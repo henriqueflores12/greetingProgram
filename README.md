@@ -1,2 +1,3 @@
 # greetingProgram
-creating a basic javascript code
+creating a basic javascript code that
+this program display a greeting to the user based upon the current time...
